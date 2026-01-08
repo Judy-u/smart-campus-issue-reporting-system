@@ -40,3 +40,22 @@ Many universities rely on manual and outdated methods to report campus facility 
 
 
 ## Project Structure
+smart-campus-issue-reporting-system/
+├── frontend/
+├── backend/
+├── ml-model/
+├── docs/
+└── README.md
+
+## Project Status
+Project setup and documentation in progress.
+
+## Team Members
+- Judith
+- Constance
+
+## Future Improvements
+- Mobile application version
+- Improved machine learning model accuracy
+- Real cloud deployment
+- Analytics and reporting features
