@@ -1,5 +1,5 @@
-**SYSTEM DESIGN & ARCHITECTURE
-System Overview**
+**SYSTEM DESIGN & ARCHITECTURE**
+**System Overview**
 
 The Smart Campus Facility Issue Reporting System is a web-based application designed to improve the reporting and management of facility issues within a university campus. The system allows students and staff to report facility problems by uploading an image and providing a short description. The uploaded image is analyzed using image recognition techniques to classify the type of issue and determine its severity level.
 
@@ -21,8 +21,8 @@ The system follows a client–server architecture model. Users interact with the
 
 All report data, including images, predictions, and status updates, are stored in a database. The admin dashboard retrieves data from the database to display reported issues and allow maintenance staff to manage repairs.
 
-**System Workflow
-User Workflow**
+**System Workflow**
+**User Workflow**
 
 The user accesses the web application.
 
