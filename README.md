@@ -47,8 +47,6 @@ smart-campus-issue-reporting-system/
 ├── docs/
 └── README.md
 
-## Project Status
-Project setup and documentation in progress.
 
 ## Team Members
 - Judith
